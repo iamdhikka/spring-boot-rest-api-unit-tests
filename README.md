@@ -2,7 +2,7 @@
 
 - Spring boot REST APIs
 - Spring boot HATEOAS REST APIs
-- Unit tests
+- Unit test
 - Integration tests
 - Mockito
 - JACOCO Coverage reports
